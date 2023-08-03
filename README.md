@@ -1,6 +1,5 @@
 # Audify Music Android App
 
-<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/dc5f7b85-6a64-4c9f-ace8-4312913e3546/BdZGB0cUfh.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
 
 Audify is a simple and user-friendly music player app for Android that allows users to play music stored on their devices with ease.
 
