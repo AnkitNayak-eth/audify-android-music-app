@@ -1,6 +1,8 @@
 # Audify Music Android App
 
 
+![Untitled (512 × 512 px) (1000 × 500 px) (800 × 500 px) (800 × 300 px)](https://github.com/AnkitNayak-eth/audify-android-music-app/assets/52006128/becac6ad-9a7f-46dc-9bfa-55f2d2aa3130)
+
 Audify is a simple and user-friendly music player app for Android that allows users to play music stored on their devices with ease.
 
 ## Features
