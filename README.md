@@ -16,7 +16,8 @@ Audify is a simple and user-friendly music player app for Android that allows us
 
 ## Screenshots
 
-<!-- Add some app screenshots here to give an overview of the app's UI -->
+![Google Pixel 4 XL Presentation](https://github.com/AnkitNayak-eth/audify-android-music-app/assets/52006128/30610727-39f4-4658-941b-94165a68a2e2)
+
 
 ## Getting Started
 
